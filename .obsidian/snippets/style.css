@@ -301,7 +301,8 @@ TAGS
 
 .tag[href^="#seedling🌱"],
 .tag[href^="#budding🌿"],
-.tag[href^="#evergreen🌲"] {
+.tag[href^="#evergreen🌲"],
+.tag[href^="#health"] {
   color: var(--light-dim-green);
   background-color: var(--tag-base);
   border: 1px solid var(--faded-green);
@@ -319,11 +320,24 @@ TAGS
   border: 1px solid var(--dim-yellow);
 }
 
+.tag[href^="#spiritual"] {
+  color: var(--light-dim-aqua);
+  background-color: var(--tag-base);
+  border: 1px solid var(--dim-aqua);
+}
+
 .tag[href^="#devotional"] {
   color: var(--light-dim-blue);
   background-color: var(--tag-base);
   border: 1px solid var(--dim-blue);
 }
+
+.tag[href^="#computer-science"] {
+  color: var(--light-dim-purple);
+  background-color: var(--tag-base);
+  border: 1px solid var(--dim-purple);
+}
+
 
 mark {
   background-color: var(--text-mark);
