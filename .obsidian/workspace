@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "3ae264fd0b3d6c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1c37214a8e22a7d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Source Notes/_resources/Tags.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c523c1ad82622cea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "62a521f797384616",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7e9dd6d76c61af9e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#evergreen",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b004cb777c42cd58",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e4ac188f3bdf7973",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "fbd6b50749c4762f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8d200a9422ad8661",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "b0e5fd70f5ff4a9c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Source Notes/_resources/Tags.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4e46845713dcf2ae",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Source Notes/_resources/Tags.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f186a1a94d535246",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Source Notes/_resources/Tags.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "f1c37214a8e22a7d",
+  "lastOpenFiles": [
+    "Giới thiệu.md",
+    "Source Notes/Slipbox/Habit Management.md",
+    "Source Notes/LEC D10/Prayer/Pray for Vietnam Church (12-10-2022).md",
+    "Source Notes/Books/Spiritual Leadership.md",
+    "Source Notes/_resources/Templates/Book.md",
+    "Source Notes/_resources/Templates/Evergreen.md",
+    "Source Notes/Encyclopedia/John C. Maxwell.md",
+    "Source Notes/Spiritual/Koinonia.md",
+    "Source Notes/Books/John Maxwell.md",
+    "Source Notes/Computer Science/JavaScript.md"
+  ]
+}

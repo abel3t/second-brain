@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#unlinked",
+      "color": {
+        "a": 1,
+        "rgb": 12959407
+      }
+    },
+    {
+      "query": "tag:#journal📓",
+      "color": {
+        "a": 1,
+        "rgb": 16641612
+      }
+    },
+    {
+      "query": "tag:#seedling🌱",
+      "color": {
+        "a": 1,
+        "rgb": 1162004
+      }
+    },
+    {
+      "query": "tag:#budding🌿",
+      "color": {
+        "a": 1,
+        "rgb": 1877567
+      }
+    },
+    {
+      "query": "tag:#evergreen🌲",
+      "color": {
+        "a": 1,
+        "rgb": 1410143
+      }
+    },
+    {
+      "query": "tag:#devotionalA6",
+      "color": {
+        "a": 1,
+        "rgb": 3707302
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.22291666666667,
+  "lineSizeMultiplier": 1.22291666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.6039330050122734,
+  "close": true
+}

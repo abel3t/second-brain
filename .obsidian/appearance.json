@@ -1,0 +1,11 @@
+{
+  "theme": "obsidian",
+  "monospaceFontFamily": "Inter",
+  "interfaceFontFamily": "Apple Braille",
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "textFontFamily": "Georgia,Menlo,Times New Roman,PT Sans,PT Serif",
+  "accentColor": ""
+}

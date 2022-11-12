@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "3ae264fd0b3d6c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ab9c24d88c2e42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e91eb7487dac9213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Read Through the Bible/2022/10-11-2022.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "57deacc81dc87240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7306c2b362c2e81",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Source Notes/Read Through the Bible/2022/10-11-2022.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c523c1ad82622cea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "62a521f797384616",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7e9dd6d76c61af9e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "c1",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b004cb777c42cd58",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e4ac188f3bdf7973",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fbd6b50749c4762f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8d200a9422ad8661",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "b0e5fd70f5ff4a9c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Source Notes/Read Through the Bible/2022/10-11-2022.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4e46845713dcf2ae",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Source Notes/Read Through the Bible/2022/10-11-2022.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f186a1a94d535246",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Source Notes/Read Through the Bible/2022/10-11-2022.md"
+          }
+        }
+      },
+      {
+        "id": "70db0c9f9346f4b9",
+        "type": "leaf",
+        "state": {
+          "type": "timeline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e91eb7487dac9213",
+  "lastOpenFiles": [
+    "Source Notes/Read Through the Bible/2022/09-11-2022.md",
+    "Source Notes/Read Through the Bible/2022/11-11-2022.md",
+    "Source Notes/Read Through the Bible/2022/10-11-2022.md",
+    "Source Notes/Plans/A1 -> C2 Road Map.md",
+    "Source Notes/Read Through the Bible/2022/06-11-2022.md",
+    "Source Notes/Read Through the Bible/2022/05-11-2022.md",
+    "Source Notes/Spiritual/Holy Bible/I Thessalonians.md",
+    "Source Notes/Spiritual/Holy Bible/Acts.md",
+    "Day Planners/Day Planner-20221105.md",
+    "Source Notes/Computer Science/JavaScript.md"
+  ]
+}

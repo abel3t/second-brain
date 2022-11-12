@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "3ae264fd0b3d6c68",
+    "type": "split",
+    "children": [
+      {
+        "id": "114916e37982d3cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1f4abde65b6e58e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Slipbox/Target Habits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b31fe632693e8911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Song Lyrics/Our Father.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f2a1600c8023e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Song Lyrics/Our Father.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc6235952658d1a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Song Lyrics/Hallelujah To The Lamb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "de69c7aaa6316f69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a389d71b320cc545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Spiritual/Holy Bible/I Corinthians.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f422d194220c684b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Plans/A1 -> C2 Road Map.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c9dfd5f382751e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/_resources/Templates/Slipbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4159b9afe381145f",
+    "type": "split",
+    "children": [
+      {
+        "id": "86a61525337889c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb1866d773d28735",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7075d27c32466a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c954e3d8e88bf754",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f87401640446aa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc45913145f19f5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de622c17317dce52",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dc836b461e5511f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdc128932b686b80",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a2f77fc7c31c3ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d4d0cbde2626b16b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "de69c7aaa6316f69",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Source Notes/Read Through the Bible/2022/12-11-2022.md",
+    "Source Notes/Slipbox/Target Habits.md",
+    "Source Notes/Read Through the Bible/2022/11-11-2022.md",
+    "Source Notes/Spiritual/Holy Bible/I Corinthians.md",
+    "Source Notes/Song Lyrics/Our Father.md",
+    "Source Notes/Song Lyrics/Mi Corazon.md",
+    "Source Notes/Song Lyrics/Hallelujah To The Lamb.md",
+    "Source Notes/Song Lyrics/God Will Make A Way.md",
+    "Source Notes/Journal/2022/09-11-2022.md"
+  ]
+}
