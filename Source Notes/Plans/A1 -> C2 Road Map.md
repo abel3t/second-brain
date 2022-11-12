@@ -1,7 +1,7 @@
 ==**Current Level:**== **A1**
 
 # Commitment Targets
-----------
+----
 ## A2: 200 hours
 **Time:** ==11-2022 -> 03-2022 (5 Months)==
 - Speak Now: 120 hours
@@ -62,7 +62,7 @@
 - Passive listening: 200 hours (\*)
 => **Total:** 728 hours (+200 hours)
 # Inspiration Targets
-----------
+----
 ## C1: 800 hours
 **Time**: ==01-2026 -> 12-2027 (24 months)==
 - Unknown: ~ 365 hours
@@ -72,7 +72,7 @@
 - Passive listening: 500 hours (\*)
 => **Total:** 1460 hours (+500 hours)
 # Ambitious Targets
-----------
+----
 ## C2: 1200 hours
 **Time**: ==01-2028 -> 12-2029 (24 months)==
 - Unknown: ~ 365 hours
