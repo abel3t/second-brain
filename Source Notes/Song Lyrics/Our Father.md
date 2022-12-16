@@ -12,7 +12,7 @@ Our Father, who art in Heaven
 Hallowed be thy name  
 Our Father, hear us from Heaven  
 Forgive our sins we pray  
-  
+
 Hear our song  
 As it rises to Heaven  
 May Your glory fill the earth  
@@ -34,9 +34,9 @@ Who have crossed that river before
 And this is the song we'll be singing forever  
   
 Holy is the Lord (x4)
-  
+
 Holy is the Lord  (x4)
-  
+
 Hear our prayer  
 We are Your children  
 And we've gathered here today  

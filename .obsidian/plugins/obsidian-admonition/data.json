@@ -10,6 +10,18 @@
       "command": true,
       "injectColor": true,
       "noTitle": false
+    },
+    "plan": {
+      "type": "plan",
+      "color": "242, 223, 24",
+      "icon": {
+        "name": "arrows-alt",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
     }
   },
   "syntaxHighlight": false,

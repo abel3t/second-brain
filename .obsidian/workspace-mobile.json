@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Notes/Read Through the Bible/2022/10-11-2022.md",
+                "file": "Source Notes/Devotional/2022/21-11-2022.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "858496802f6790f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Daily Planner/2022/04-12-2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "457239c76e74ed31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Daily Planner/2022/04-12-2022.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "57deacc81dc87240",
@@ -31,7 +56,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Source Notes/Read Through the Bible/2022/10-11-2022.md",
+                "file": "Source Notes/Daily Planner/2022/04-12-2022.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +159,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Source Notes/Read Through the Bible/2022/10-11-2022.md",
+            "file": "Source Notes/Daily Planner/2022/04-12-2022.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +176,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Source Notes/Read Through the Bible/2022/10-11-2022.md",
+            "file": "Source Notes/Daily Planner/2022/04-12-2022.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +188,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Source Notes/Read Through the Bible/2022/10-11-2022.md"
+            "file": "Source Notes/Daily Planner/2022/04-12-2022.md"
           }
         }
       },
@@ -178,17 +203,17 @@
     ],
     "currentTab": 0
   },
-  "active": "e91eb7487dac9213",
+  "active": "858496802f6790f3",
   "lastOpenFiles": [
-    "Source Notes/Read Through the Bible/2022/09-11-2022.md",
-    "Source Notes/Read Through the Bible/2022/11-11-2022.md",
-    "Source Notes/Read Through the Bible/2022/10-11-2022.md",
-    "Source Notes/Plans/A1 -> C2 Road Map.md",
-    "Source Notes/Read Through the Bible/2022/06-11-2022.md",
-    "Source Notes/Read Through the Bible/2022/05-11-2022.md",
-    "Source Notes/Spiritual/Holy Bible/I Thessalonians.md",
-    "Source Notes/Spiritual/Holy Bible/Acts.md",
-    "Day Planners/Day Planner-20221105.md",
-    "Source Notes/Computer Science/JavaScript.md"
+    "Source Notes/Slipbox/Plans for 2023.md",
+    "Source Notes/Slipbox/Target Habits.md",
+    "Source Notes/Daily Planner/2022/04-12-2022.md",
+    "Source Notes/Devotional/2022/01-12-2022.md",
+    "Source Notes/Devotional/2022/30-11-2022.md",
+    "Source Notes/Devotional/2022/26-11-2022.md",
+    "Source Notes/Devotional/2022/31-10-2022.md",
+    "Source Notes/Devotional/2022/04-11-2022.md",
+    "Source Notes/Devotional/2022/08-11-2022.md",
+    "Source Notes/Devotional/2022/14-11-2022.md"
   ]
 }

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "61888a69b5b87d19",
+        "id": "908ac0c82805b554",
         "type": "tabs",
         "children": [
           {
-            "id": "6434dee426297f92",
+            "id": "17e4a66476979894",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Source Notes/Devotional/2022/16-12-2022.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#journal📓",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Source Notes/Devotional/2022/16-12-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Source Notes/Devotional/2022/16-12-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,26 +132,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Source Notes/Devotional/2022/16-12-2022.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6434dee426297f92",
+  "active": "17e4a66476979894",
   "lastOpenFiles": [
-    "Source Notes/_resources/Templates/Slipbox.md",
-    "Source Notes/Plans/A1 -> C2 Road Map.md",
-    "Source Notes/Spiritual/Holy Bible/I Corinthians.md",
-    "Source Notes/_resources/Templates/Evergreen.md",
-    "Source Notes/Song Lyrics/Hallelujah To The Lamb.md",
-    "Source Notes/Song Lyrics/Our Father.md",
-    "Source Notes/Slipbox/Target Habits.md",
-    "Untitled.md",
-    "Source Notes/Read Through the Bible/2022/12-11-2022.md",
-    "Source Notes/Read Through the Bible/2022/11-11-2022.md"
+    "Source Notes/Devotional/2022/27-10-2022.md",
+    "Source Notes/_resources/Templates/Devotional.md",
+    "Source Notes/Encyclopedia/Giảng Luận Kinh Thánh.md",
+    "Source Notes/Journal/2022/27-10-2022.md",
+    "Source Notes/Devotional/2022/06-11-2022.md",
+    "Source Notes/Journal/2022/01-11-2022.md",
+    "Source Notes/Devotional/2022/05-11-2022.md",
+    "Source Notes/Devotional/2022/07-11-2022.md",
+    "Source Notes/Spiritual/Holy Bible/I Thessalonians.md",
+    "Source Notes/Devotional/2022/13-11-2022.md"
   ]
 }
