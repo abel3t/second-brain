@@ -49,13 +49,13 @@ const spiritualFamilyPeople = [
 
   // Spiritual Friends
   "Anh Giô-na",
+  "Cô Grace",
   "AC Tuấn - Lài",
   "Luân",
   "Anh Phước",
   "Anh Huyền",
   "Rô-mát",
   "Sang",
-  "Phát",
   "Đức", 
   "Thiện",
   "Anh Thế Anh",
